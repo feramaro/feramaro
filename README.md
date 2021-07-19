@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Spring,Santander Bootcamp | Fullstack Developer on DIO**
 
-- 📫 How to reach me **jrferamaro@gmail.com**
-
 - ⚡ Fun fact **I love cats**
 
 <h3 align="left">Connect with me:</h3>
