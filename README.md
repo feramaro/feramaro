@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
 <h3 align="center">A Developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently learning **OOP Design Patterns**
 
 - 📫 How to reach me **jrferamaro@gmail.com**
 
